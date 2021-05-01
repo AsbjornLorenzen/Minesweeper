@@ -1,0 +1,21 @@
+QPushButton {
+    background-color: gray;
+    margin-left: 0px;
+    margin-right:0px;
+    }
+
+QPushButton:disabled{
+    color:black
+}
+
+QLabel {
+    font-size: 20px;
+    text-align: center;
+}
+
+QMainWindow {background-color: cyan}
+
+#thegrid{
+    box-shadow: 10px 10px grey;
+    color:purple;
+}
